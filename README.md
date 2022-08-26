@@ -1,8 +1,6 @@
 # About Me:
 
-Hello hello!
-
-I first discovered code in my early teenage years, and it's been love at first 'site'. 
+Software Engineer & Technical Consultant
 
 I enjoy:
 -  solving complex challenges with code
