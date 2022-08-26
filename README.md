@@ -1,7 +1,28 @@
-# 💫 About Me:
-Hello
+# About Me:
 
+Hello hello!
 
+I first discovered code in my early teenage years, and it's been love at first 'site'. 
+
+I enjoy:
+-  solving complex challenges with code
+-  strong coffee
+-  ancient history
+-  mycology
+-  lifting weights
+
+Currently coding with:
+- JavaScript
+- TypeScript
+- Python
+
+Drop me a line 
+
+```bash
+
+>_ $ https://jamesdelay.dev || jdelayjr.jr@gmail.com
+
+```
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jdelayjr/) 
 
