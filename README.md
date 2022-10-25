@@ -9,7 +9,7 @@ I enjoy:
 -  mycology
 -  lifting weights
 
-Currently coding with:
+Building cool stuff with:
 - JavaScript
 - TypeScript
 - Python
