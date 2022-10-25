@@ -9,9 +9,8 @@ I enjoy:
 -  mycology
 -  lifting weights
 
-Building cool stuff with:
-- JavaScript
-- TypeScript
+Currently, coding in:
+- JavaScript/TypeScript
 - Python
 
 Drop me a line 
