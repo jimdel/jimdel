@@ -7,7 +7,7 @@ I enjoy:
 -  strong coffee
 -  ancient history
 -  mycology
--  lifting weights
+-  brazilian jiu jitsu
 
 Currently, coding in:
 - JavaScript/TypeScript
