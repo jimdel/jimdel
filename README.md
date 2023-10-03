@@ -6,7 +6,6 @@ I enjoy:
 -  solving complex challenges with code
 -  strong coffee
 -  ancient history
--  mycology
 -  brazilian jiu jitsu
 
 Currently, coding in:
