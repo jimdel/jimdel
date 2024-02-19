@@ -16,7 +16,7 @@ Drop me a line
 
 ```bash
 
->_ $ https://jamesdelay.dev || jdelay.jr@gmail.com
+>_ $ https://jamesdelay.com || jdelay.jr@gmail.com
 
 ```
 ## 🌐 Socials:
