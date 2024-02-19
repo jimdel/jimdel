@@ -1,6 +1,6 @@
 # About Me:
 
-Software Engineer & Technical Consultant
+Senior Software Engineer & Technical Consultant
 
 I enjoy:
 -  solving complex challenges with code
