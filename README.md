@@ -12,13 +12,6 @@ Currently, coding in:
 - JavaScript/TypeScript
 - Python
 
-Drop me a line 
-
-```bash
-
->_ $ https://jamesdelay.com || jdelay.jr@gmail.com
-
-```
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jdelayjr/) 
 
