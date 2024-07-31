@@ -3,14 +3,16 @@
 Senior Software Engineer & Technical Consultant
 
 I enjoy:
--  solving complex challenges with code
+-  solving complex problems with code
 -  strong coffee
 -  ancient history
 -  brazilian jiu jitsu
+-  archery
 
 Currently, coding in:
 - JavaScript/TypeScript
 - Python
+- Go
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jdelayjr/) 
