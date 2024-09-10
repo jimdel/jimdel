@@ -1,17 +1,17 @@
 # About Me:
 
-Senior Software Engineer & Technical Consultant
+Software Engineer & IT Consultant
 
 I enjoy:
--  solving complex problems with code
--  strong coffee
--  ancient history
+-  solving complex problems with technology & code
 -  brazilian jiu jitsu
 -  archery
+-  ancient history
+-  ~strong~ coffee
 
-Currently, coding in:
+
+Currently, programming in:
 - JavaScript/TypeScript
-- Python
 - Go
 
 ## 🌐 Socials:
