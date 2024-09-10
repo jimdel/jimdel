@@ -7,7 +7,7 @@ I enjoy:
 -  brazilian jiu jitsu
 -  archery
 -  ancient history
--  ~strong~ coffee
+-  *strong* coffee
 
 
 Currently, programming in:
