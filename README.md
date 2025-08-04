@@ -12,8 +12,8 @@ I enjoy:
 
 Currently, programming in:
 - JavaScript/TypeScript
-- Go
 - Python
+- Golang
 
 Personal website: https://jimdel.dev - deployed to my Raspberry Pi cluster 
 
